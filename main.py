@@ -10,6 +10,8 @@ given by MAKEFUN_OUTPUT_DIR.
 import os
 import sys
 
+# The epitaph is a fixed 88-character one-liner: a meeting-dodger finally
+# meets the one appointment he cannot reschedule.
 EPITAPH = (
     "He spent his whole life dodging meetings. "
     "Death was the only one he couldn't reschedule."
